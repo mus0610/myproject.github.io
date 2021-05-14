@@ -1,1 +1,1 @@
-# srmideathon.github.io
+# myproject.github.io
